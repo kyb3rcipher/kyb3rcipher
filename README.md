@@ -38,7 +38,7 @@ Soy un Programador 🛸 y Hacker Etico tambien soy Fundador del [Kryztal Team �
 
 <!--
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-
+change
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 -->
 
