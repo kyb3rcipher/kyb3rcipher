@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hola aqui <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![YouTube Badge](https://img.shields.io/badge/-@Kyb3r.bat%20|%20GT-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC9DHO7qi_-bLPquT0MLyyxQ?view_as=subscriber)](https://www.youtube.com/channel/UCQXt2DMbgcjO5xpAd0cFS8A)
 [![Twitter Badge](https://img.shields.io/badge/-@kyb3rbat-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/maddhruv)](https://twitter.com/kyb3rbat) 
@@ -8,7 +8,7 @@
 
 <br />
 
-I am a programmer and Ethical Hacker 🛸 and Founder of [Kryztal Team ⚡](https://github.com/kryztalteam) and derivates with [KryztalArch OS 🍕](https://github.com/kryztalarchos)
+Soy un Programador 🛸 y Hacker Etico tambien soy Fundador del [Kryztal Team ⚡](https://github.com/kryztalteam) y derivados de este como [KryztalArch OS 🍕](https://github.com/kryztalarchos)
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
