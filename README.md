@@ -44,9 +44,9 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 🚧 **Futuros Proyectos:**
 <!-- TODO-IST:START -->
-🏆  Kryztal Community (Comunidades de Hacking, Tecnoligía y Programación)
-🌸  Kryztal CTF (Desafios de Hacking)
-👿  Dominar la galaxia junto a Palpatine
+- 🏆  Kryztal Community (Comunidades de Hacking, Tecnoligia y Programación)
+- 🌸  Kryztal CTF (Desafios de Hacking)
+- 👿  Dominar la galaxia junto a Palpatine
 <!-- TODO-IST:END -->
 
 
