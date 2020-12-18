@@ -3,7 +3,7 @@
 [![YouTube Badge](https://img.shields.io/badge/-@Kyb3r.bat%20|%20GT-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC9DHO7qi_-bLPquT0MLyyxQ?view_as=subscriber)](https://www.youtube.com/channel/UCQXt2DMbgcjO5xpAd0cFS8A)
 [![Twitter Badge](https://img.shields.io/badge/-@kyb3rbat-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/maddhruv)](https://twitter.com/kyb3rbat) 
 [![Instagram Badge](https://img.shields.io/badge/-@kyb3rbat-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/maddhruv)](https://instagram.com/kyb3rbat) 
-[![Gmail Badge](https://img.shields.io/badge/-contact@kyb3rbat.ga-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@kyb3rbat.ga)](mailto:dhruvjainpenny@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-contact@kyb3rbat.ga-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@kyb3rbat.ga)](mailto:contact@kyb3rbat.ga)
 <!--[![Linkedin Badge](https://img.shields.io/badge/-midhruvjaink-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/midhruvjaink/)](https://www.linkedin.com/in/midhruvjaink/)-->
 
 <br />
