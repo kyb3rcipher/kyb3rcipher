@@ -18,7 +18,7 @@ I am a programmer and Ethical Hacker 🛸 and Founder of [Kryztal Team ⚡](http
 - 📫 Tweet me in: [@kyb3rbat](https://twitter.com/kyb3rbat)
 - 📷 My Instagram: [@kyb3rbat](https://instagram.com/kyb3rbat)
 - 🌱 [KryztalArch OS](https://kryztalarchos.tk/creators)
-- 🍫 [KryztalArch OS](https://kryztalteam.tk)
+- 🍫 [Kryzta Team](https://kryztalteam.tk)
 
 
 <!--
