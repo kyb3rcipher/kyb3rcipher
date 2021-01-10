@@ -58,4 +58,4 @@ change
 
 
 
-[View this in english](https://github.com/kyb3rbat/kyb3rbat/English.md)
+[View this in english](https://github.com/kyb3rbat/kyb3rbat/blob/main/English.md)
