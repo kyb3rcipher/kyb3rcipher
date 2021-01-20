@@ -53,8 +53,8 @@ change
 
 📈 My GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyb3rbat&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight)](https://kyb3rbat.ga)
-[![GitHub Top](https://github-readme-stats.vercel.app/api/top-langs/?username=kyb3rbat&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&layout=compact)](https://kyb3rbat.ga)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyb3rbat&show_icons=true&theme=react&include_all_commits=true)](https://kyb3rbat.ga)
+[![GitHub Top](https://github-readme-stats.vercel.app/api?username=kyb3rbat&show_icons=true&theme=react&include_all_commits=false)](https://kyb3rbat.ga)
 
 
 
