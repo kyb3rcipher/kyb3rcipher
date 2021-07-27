@@ -1,4 +1,4 @@
-[![Twitter Badge](https://img.shields.io/badge/-@kyb3rfett-1ca0f1?style=flat-square&labelColor=1c1c1f&logo=twitter&logoColor=white&link=https://twitter.com/kyb3rfett)](https://twitter.com/kyb3rfett) [![Instagram Badge](https://img.shields.io/badge/-@kyb3rfett-1ca0f1?style=flat-square&labelColor=1c1c1f&logo=instagram&logoColor=white&link=https://instagram.com/kyb3rfett)](https://instagram.com/instagram) [![Telegram Badge](https://img.shields.io/badge/-@kyb3rfett-1ca0f1?style=flat-square&labelColor=1c1c1f&logo=telegram&logoColor=dark&link=https://t.me/kyb3rfett)](https://t.me/kyb3rfett)
+[![Twitter Badge](https://img.shields.io/badge/-@kyb3rvizsla-1ca0f1?style=flat-square&labelColor=1c1c1f&logo=twitter&logoColor=white&link=https://twitter.com/kyb3rvizsla)](https://twitter.com/kyb3rvizsla) [![Instagram Badge](https://img.shields.io/badge/-@kyb3rvizsla-1ca0f1?style=flat-square&labelColor=1c1c1f&logo=instagram&logoColor=white&link=https://instagram.com/kyb3rvizsla)](https://instagram.com/instagram) [![Telegram Badge](https://img.shields.io/badge/-@kyb3rvizsla-1ca0f1?style=flat-square&labelColor=1c1c1f&logo=telegram&logoColor=dark&link=https://t.me/kyb3rvizsla)](https://t.me/kyb3rvizsla)
 ### Hey there <img src="hand.gif" width="25px">
 
 I am and I learn a bit of everything: Student :blue_book:,SysAdmin :computer:,Networks :earth_americas:,Pentester :angel:
@@ -7,7 +7,7 @@ I am and I learn a bit of everything: Student :blue_book:,SysAdmin :computer:,Ne
 
 📈 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyb3rfett&show_icons=true&theme=react&include_all_commits=false)
-![GitHub Top](https://github-readme-stats.vercel.app/api/top-langs/?username=kyb3rfett&show_icons=true&include_all_commits=true&hide_border=false&theme=react&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyb3rvizsla&show_icons=true&theme=react&include_all_commits=false)
+![GitHub Top](https://github-readme-stats.vercel.app/api/top-langs/?username=kyb3rvizsla&show_icons=true&include_all_commits=true&hide_border=false&theme=react&layout=compact)
 
 Thank you [Fantasmon](https://github.com/spawmc) :heart:
