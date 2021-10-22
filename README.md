@@ -16,7 +16,7 @@ I am and I learn a bit of everything: Student :blue_book:,SysAdmin :computer:,Ne
 
 <a href="https://skyline.github.com/kyb3rvizsla/2021" target="_blank">My GitHub 2021 Skyline</a>
 
-<b>Note:</b> These metrics do not take into account my other repositories hosted by [kyb3rvizsla-others](https://github.com/kyb3rvizsla-others). The top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<b>Note:</b> These metrics do not take into account my other repositories hosted by [kyb3r alt](https://github.com/kyb3rvizslaalt). The top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <details>
   <summary>🔥 My GitHub Streaks</summary>
