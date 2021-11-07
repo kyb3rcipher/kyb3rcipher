@@ -1,7 +1,10 @@
-[![Twitter Badge](https://img.shields.io/badge/-@kyb3rvizsla-1ca0f1?style=flat-square&labelColor=1c1c1f&logo=twitter&logoColor=white&link=https://twitter.com/kyb3rvizsla)](https://twitter.com/kyb3rvizsla) [![Instagram Badge](https://img.shields.io/badge/-@kyb3rvizsla-1ca0f1?style=flat-square&labelColor=1c1c1f&logo=instagram&logoColor=white&link=https://instagram.com/kyb3rvizsla)](https://instagram.com/instagram) [![Telegram Badge](https://img.shields.io/badge/-@kyb3rvizsla-1ca0f1?style=flat-square&labelColor=1c1c1f&logo=telegram&logoColor=dark&link=https://t.me/kyb3rvizsla)](https://t.me/kyb3rvizsla)
+[![Twitter Badge](https://img.shields.io/badge/-@kyb3rvizsla-1ca0f1?style=flat-square&labelColor=1c1c1f&logo=twitter&logoColor=white&link=https://twitter.com/kyb3rvizsla)](https://twitter.com/kyb3rvizsla)
+[![Instagram Badge](https://img.shields.io/badge/-@kyb3rvizsla-1ca0f1?style=flat-square&labelColor=1c1c1f&logo=instagram&logoColor=white&link=https://instagram.com/kyb3rvizsla)](https://instagram.com/instagram)
+[![Telegram Badge](https://img.shields.io/badge/-@kyb3rvizsla-1ca0f1?style=flat-square&labelColor=1c1c1f&logo=telegram&logoColor=dark&link=https://t.me/kyb3rvizsla)](https://t.me/kyb3rvizsla)
+[![PGP Badge](https://img.shields.io/keybase/pgp/kyb3rvizsla?style=flat-square&logo=keybase&labelColor=black&color=1ca0f1)](https://keybase.io/kyb3rvizsla)
 ### Hey there <img src="hand.gif" width="25px">
 
-I am and I learn a bit of everything: Student :blue_book:,SysAdmin :computer:,Networks :earth_americas:,Pentester :angel:
+I am and I learn a bit of everything: Student :blue_book:, SysAdmin :computer:, Networks :earth_americas: and Pentester/Hacker :angel:
 
 ![Banner](banner.gif)
 
@@ -26,4 +29,4 @@ I am and I learn a bit of everything: Student :blue_book:,SysAdmin :computer:,Ne
 
 </details>
 
-Thank you [Fantasmon](https://github.com/spawmc) :heart:
+Thank you [Spawnmc](https://github.com/spawmc) :heart:
