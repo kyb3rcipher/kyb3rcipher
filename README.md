@@ -1,7 +1,7 @@
-[![Twitter Badge](https://img.shields.io/badge/-@kyb3rcipher-962ac3?style=flat-square&labelColor=1f2229&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=gaelkrz)
-[![Instagram Badge](https://img.shields.io/badge/-@kyb3rcipher-962ac3?style=flat-square&labelColor=1f2229&logo=instagram&logoColor=white)](https://www.instagram.com/kyb3rcipher)
-[![Discord Badge](https://img.shields.io/badge/-@kyb3rcipher-962ac3?style=flat-square&labelColor=1f2229&logo=discord&logoColor=white)]()
-[![PGP Badge](https://img.shields.io/keybase/pgp/kyb3rcipher?style=flat-square&labelColor=1f2229&logo=keybase&logoColor=white&color=962ac3)](https://keybase.io/kyb3rcipher)
+[![Twitter Badge](https://img.shields.io/badge/-@kyb3rcipher-f9e968?style=flat-square&labelColor=1f2229&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=gaelkrz)
+[![Instagram Badge](https://img.shields.io/badge/-@kyb3rcipher-f9e968?style=flat-square&labelColor=1f2229&logo=instagram&logoColor=white)](https://www.instagram.com/kyb3rcipher)
+[![Discord Badge](https://img.shields.io/badge/-@kyb3rcipher-f9e968?style=flat-square&labelColor=1f2229&logo=discord&logoColor=white)]()
+[![PGP Badge](https://img.shields.io/keybase/pgp/kyb3rcipher?style=flat-square&labelColor=1f2229&logo=keybase&logoColor=white&color=f9e968)](https://keybase.io/kyb3rcipher)
 ### Hi there <img src="hand.gif" width="25px">
 
 I'm Kyber, I like Programming :blue_book:, SysAdmin :computer: and Hacking :angel:.
