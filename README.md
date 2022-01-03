@@ -22,7 +22,7 @@ I'm Kyber, I like Programming :blue_book:, SysAdmin :computer: and Hacking :ange
 
 <a href="https://skyline.github.com/kyb3rcipher/2021" target="_blank">My GitHub 2021 Skyline</a>
 
-<b>Note:</b> These metrics do not take into account my other repositories hosted by [kyb3r alt](https://github.com/kyb3r7alt). The top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<b>Note:</b> These metrics do not take into account my other repositories hosted by [kyb3r alt](https://github.com/kyb3rciphrtalt). The top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <details>
   <summary>🔥 My GitHub Streaks</summary>
