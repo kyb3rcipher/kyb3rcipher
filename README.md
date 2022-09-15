@@ -1,34 +1,19 @@
-## Hi there <img src="hand.gif" width="30">
+<h1 align="center">Hi, I am Kyb3r 👋 </h1>
+<h6 align="right">he/him</h6>
 
-<a href="https://twitter.com/intent/follow?screen_name=kyb3rcipher" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=+Twitter&color=263238&style=for-the-badge&logo=twitter&logoColor=%23aaaaaaaa"></a>
-<a href="https://www.instagram.com/kyb3rcipher" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=+Instagram&color=263238&style=for-the-badge&logo=instagram&logoColor=%23aaaaaaaa"></a>
-<a href="https://reddit.com/u/kyb3rcipher" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=+Reddit&color=263238&style=for-the-badge&logo=reddit&logoColor=%23aaaaaaaa"></a>
-<a href="https://app.hackthebox.com/profile/667136" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=+HackTheBox&color=263238&style=for-the-badge&logo=hackthebox&logoColor=%23aaaaaaaa"></a>
-<a href="https://kyb3rcipher.com/kyb3rcipher.asc" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=+PGP%20Key&color=263238&style=for-the-badge&logo=keybase&logoColor=%23aaaaaaaa"></a>
+Maybe I'm a SysAdmin Hacker or smt like that, **I love the open-source :heart:** and Unix-like systems.
 
+**Tools and technologies I use:**
 
-I'm Kyber, Programmer :blue_book:, SysAdmin :computer: and Hacker :pouting_cat:.
+![Arch](https://img.shields.io/badge/-Archlinux-311701?style=for-the-badge&color=1e1e2e&logo=archlinux&logoColor=89b4fa)
+[![Neovim](https://img.shields.io/badge/-Neovim-311701?style=for-the-badge&color=1e1e2e&logo=neovim&logoColor=a6e3a1)](https://github.com/kyb3rcipher/dotfiles/tree/main/nvim/.config/nvim)
+![Python](https://img.shields.io/badge/-Python-311701?style=for-the-badge&color=1e1e2e&logo=python&logoColor=f9e2af)
+![Bash](https://img.shields.io/badge/-Bash-311701?style=for-the-badge&color=1e1e2e&logo=gnu-bash&logoColor=bac2de)
+![Docker](https://img.shields.io/badge/-Docker-311701?style=for-the-badge&color=1e1e2e&logo=docker&logoColor=74c7ec)
 
-![Banner](banner.gif)
+**GitHub stats**
 
-<details>
-<summary>📊 My GitHub Stats</summary>
-<br>
+<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=kyb3rcipher&show_icons=true&bg_color=1e1e2e&border_color=b4befe&title_color=f5e0dc&text_color=cdd6f4&icon_color=89b4fa" alt="kyb3rcipher" />	
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyb3rcipher&layout=compact&show_icons=true&bg_color=1e1e2e&border_color=b4befe&title_color=f5e0dc&icon_color=89b4fa&text_color=cdd6f4&langs_count=6" height="170" align="left" alt="lang" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyb3rcipher&show_icons=true&theme=tokyonight&include_all_commits=false)
-![GitHub Top](https://github-readme-stats.vercel.app/api/top-langs/?username=kyb3rcipher&show_icons=true&include_all_commits=true&hide_border=false&theme=tokyonight&layout=compact)
-
-<a href="https://gitstats.me/kyb3rcipher" target="_blank">My Git Stats</a><br>
-<a href="https://skyline.github.com/kyb3rcipher/2021" target="_blank">My GitHub 2021 Skyline</a>
-
-(<b>Note:</b> These metrics do not take into account my other repositories hosted by [kyb3r alt](https://github.com/kyb3rcipheralt). The top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.)
-
-<details>
-  <summary>🔥 My GitHub Streaks</summary>
-   <br>
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=kyb3rcipher&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&fire=EC0101" height="192px"/>
-</details>
-
-</details>
-
-Thank you [Spawnmc](https://github.com/spxwnmc) :heart:
+<!-- Credits for st: @ghostx31/@spxwnmc -->
