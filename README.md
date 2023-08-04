@@ -7,6 +7,7 @@ Maybe I'm a SysAdmin Hacker or smt like that, **I love the open-source :heart:**
 ![Linux](https://img.shields.io/badge/-Linux-311701?style=for-the-badge&color=1e1e2e&logo=linux&logoColor=F8DE68)
 ![VSCode](https://img.shields.io/badge/-VSCode-311701?style=for-the-badge&color=1e1e2e&logo=visualstudiocode&logoColor=277fff)
 ![C++](https://img.shields.io/badge/-C++-311701?style=for-the-badge&color=1e1e2e&logo=cplusplus&logoColor=FFFFFF)
+![Java](https://img.shields.io/badge/-Java-311701?style=for-the-badge&color=1e1e2e&logo=openjdk&logoColor=EB7A12)
 ![Python](https://img.shields.io/badge/-Python-311701?style=for-the-badge&color=1e1e2e&logo=python&logoColor=47D4B9)
 ![Docker](https://img.shields.io/badge/-Docker-311701?style=for-the-badge&color=1e1e2e&logo=docker&logoColor=367bf0)
 
