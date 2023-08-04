@@ -9,6 +9,7 @@ Maybe I'm a SysAdmin Hacker or smt like that, **I love the open-source :heart:**
 ![C++](https://img.shields.io/badge/-C++-311701?style=for-the-badge&color=1e1e2e&logo=cplusplus&logoColor=FFFFFF)
 ![Java](https://img.shields.io/badge/-Java-311701?style=for-the-badge&color=1e1e2e&logo=openjdk&logoColor=EB7A12)
 ![Python](https://img.shields.io/badge/-Python-311701?style=for-the-badge&color=1e1e2e&logo=python&logoColor=47D4B9)
+![Shell](https://img.shields.io/badge/-Shell-311701?style=for-the-badge&color=1e1e2e&logo=gnu%20bash&logoColor=FFFFFF)
 ![Docker](https://img.shields.io/badge/-Docker-311701?style=for-the-badge&color=1e1e2e&logo=docker&logoColor=367bf0)
 
 **GitHub stats**
