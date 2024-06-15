@@ -7,6 +7,7 @@
 ![Java](https://img.shields.io/badge/-Java-311701?style=for-the-badge&color=2F0304&logo=openjdk&logoColor=FFA500)
 ![CSS](https://img.shields.io/badge/-CSS-311701?style=for-the-badge&color=2F0304&logo=css3&logoColor=277FFF)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-311701?style=for-the-badge&color=2f0304&logo=javascript&logoColor=FFFF00)
+![PHP](https://img.shields.io/badge/-PHP-311701?style=for-the-badge&color=2f0304&logo=php&logoColor=6d0EE3)
 ![Shell](https://img.shields.io/badge/-Shell-311701?style=for-the-badge&color=2F0304&logo=gnubash&logoColor=FFFFFF)
 ![SQL](https://img.shields.io/badge/-SQL-311701?style=for-the-badge&color=2F0304&logo=sqlite&logoColor=D3D3D3)
 ### Learning
