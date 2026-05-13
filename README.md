@@ -14,7 +14,7 @@
 ### Learning
 ![TypeScript](https://img.shields.io/badge/-TypeScript-311701?style=for-the-badge&color=2F0304&logo=typescript&logoColor=277FFF)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyb3rcipher&layout=compact&show_icons=true&bg_color=2F0304&border_color=D9CBBF&title_color=FFFFFF&icon_color=367bf0&text_color=FFFFFF&langs_count=6" height="180" alt="GiHub Languages Stats" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kyb3rcipher&layout=compact&show_icons=true&bg_color=2F0304&border_color=D9CBBF&title_color=FFFFFF&icon_color=367bf0&text_color=FFFFFF&langs_count=6" height="180" alt="GiHub Languages Stats" />
 
 ## Tools I work with
 ![Linux](https://img.shields.io/badge/-Linux-311701?style=for-the-badge&color=2F0304&logo=linux&logoColor=FFFF00)
@@ -22,4 +22,4 @@
 ![Docker](https://img.shields.io/badge/-Docker-311701?style=for-the-badge&color=2F0304&logo=docker&logoColor=367BF0)
 ![Android](https://img.shields.io/badge/-Android%20Development-311701?style=for-the-badge&color=2F0304&logo=android&logoColor=50C878)
 
-<img src="https://github-readme-stats.vercel.app/api?username=kyb3rcipher&show_icons=true&bg_color=2F0304&border_color=D9CBBF&title_color=FFFFFF&text_color=FFFFFF&icon_color=367bf0" height="180" alt="GitHub Stats" />
+<img src="https://github-stats-extended.vercel.app/api?username=kyb3rcipher&show_icons=true&bg_color=2F0304&border_color=D9CBBF&title_color=FFFFFF&text_color=FFFFFF&icon_color=367bf0" height="180" alt="GitHub Stats" />
